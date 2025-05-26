@@ -1,21 +1,15 @@
-// dynamic not static
-//
-// library - minin
-// Global varibles
-//
-
-void setup(){} 
-
-void draw() {}
+"{"
+  //
+  // library - minin
+  // Global varibles
+  //
+  float x;
+void setup() {
   
-//
-
-//void mouse pressed{} {} "("
-
-//
-//void  keypressed {}  {}
+  fullScreen();
   
-// End math progres
+}
+void draw() {
+}
 
-  
-  
+RECT (X,  Y, WIDTH HEIGHT 
